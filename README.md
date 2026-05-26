@@ -11,4 +11,4 @@
 
 ---
 
-This repository contains the static files that make up my developer portfolio. You can view the portfolio _[here]()_.
+This repository contains the static files that make up my developer portfolio. You can view the portfolio _[here](https://bvmohr.github.io)_.
